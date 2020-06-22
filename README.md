@@ -1,4 +1,4 @@
-# Dynamic keyword in .NET - ![Full Article](https://mszynka.pl/articles/csharp-proper-dynamic-usage)
+# Dynamic keyword in .NET - [full article](https://mszynka.pl/articles/csharp-proper-dynamic-usage)
 
 ![.NET Core](https://github.com/mszynka/dynamic-type-checking-in-dotnet/workflows/.NET%20Core/badge.svg?branch=master&event=push)
 
@@ -31,4 +31,4 @@ public static Type GetHandler<THandler>()
 ```
 
 ---
-For more checkout the ![full article](https://mszynka.pl/articles/csharp-proper-dynamic-usage) on the topic.
+For more checkout the full article](https://mszynka.pl/articles/csharp-proper-dynamic-usage) on the topic.
