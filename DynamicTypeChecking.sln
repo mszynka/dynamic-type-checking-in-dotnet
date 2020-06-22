@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTypeChecking.Types", "DynamicTypeChecking.Types\DynamicTypeChecking.Types.csproj", "{AAFA0663-805A-4CE2-8E9D-70725CBA0FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTypeChecking.Tests", "DynamicTypeChecking.Tests\DynamicTypeChecking.Tests.csproj", "{C3625635-3089-41A5-8BFD-2D1C28265CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFA0663-805A-4CE2-8E9D-70725CBA0FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFA0663-805A-4CE2-8E9D-70725CBA0FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFA0663-805A-4CE2-8E9D-70725CBA0FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFA0663-805A-4CE2-8E9D-70725CBA0FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3625635-3089-41A5-8BFD-2D1C28265CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3625635-3089-41A5-8BFD-2D1C28265CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3625635-3089-41A5-8BFD-2D1C28265CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3625635-3089-41A5-8BFD-2D1C28265CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
